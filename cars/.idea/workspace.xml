@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb703228-c5c6-4aba-94da-9a0b5e6742ca" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cars" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DatabaseTable.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSY2028/DatabaseTable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_article.html.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/template/admin_article.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>find</find>
+      <find>$var_login</find>
+      <find>contact</find>
+      <find>admin_info</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/template/admin_article.html.php" />
+        <option value="src:table:/44359238/88902184-269e-4ae8-a38f-e72535d933a2/cars.admins" />
+        <option value="$PROJECT_DIR$/Controllers/Controller_admin.php" />
+        <option value="$PROJECT_DIR$/Controllers/Controller_manufacture.php" />
+        <option value="$PROJECT_DIR$/Controllers/Controller_car.php" />
+        <option value="$PROJECT_DIR$/Controllers/Controller_article.php" />
+        <option value="$PROJECT_DIR$/Controllers/Controller_contact.php" />
+        <option value="$PROJECT_DIR$/public/EntryPoint.php" />
+        <option value="$PROJECT_DIR$/Controllers/Admin.php" />
+        <option value="$PROJECT_DIR$/Controllers/Article.php" />
+        <option value="$PROJECT_DIR$/Controllers/Contact.php" />
+        <option value="$PROJECT_DIR$/Controllers/Manufacture.php" />
+        <option value="$PROJECT_DIR$/classes/DatabaseTable.php" />
+        <option value="$PROJECT_DIR$/Controllers/Car.php" />
+        <option value="$USER_HOME$/Desktop/WebEXX/week142jokes/week142jokes/csy2028/websites/jokes/CSY2028/classes/Routes.php" />
+        <option value="$PROJECT_DIR$/CSY2028/Routes.php" />
+        <option value="$PROJECT_DIR$/Ijdb/Controllers/Admin.php" />
+        <option value="$PROJECT_DIR$/Ijdb/Controllers/Article.php" />
+        <option value="$PROJECT_DIR$/Ijdb/Controllers/Car.php" />
+        <option value="$PROJECT_DIR$/Ijdb/Controllers/Contact.php" />
+        <option value="$PROJECT_DIR$/Ijdb/Controllers/Manufacture.php" />
+        <option value="$PROJECT_DIR$/template/admin_login.html.php" />
+        <option value="$USER_HOME$/Desktop/cars/Controllers/Car.php" />
+        <option value="$PROJECT_DIR$/template/admin_contact.html.php" />
+        <option value="$PROJECT_DIR$/template/contact.html" />
+        <option value="$PROJECT_DIR$/template/admin_left_nav.html.php" />
+        <option value="$PROJECT_DIR$/template/admin_list.html.php" />
+        <option value="$PROJECT_DIR$/public/styles.css" />
+        <option value="$PROJECT_DIR$/template/edit_admin.html.php" />
+        <option value="$PROJECT_DIR$/template/editarticle.html.php" />
+        <option value="$PROJECT_DIR$/template/editmanufacturer.html.php" />
+        <option value="$PROJECT_DIR$/Ijdb/Controllers/AdminController.php" />
+        <option value="$PROJECT_DIR$/Ijdb/Controllers/ArticleController.php" />
+        <option value="$PROJECT_DIR$/CSY2028/DatabaseTable.php" />
+        <option value="$PROJECT_DIR$/template/editcar.html.php" />
+        <option value="$PROJECT_DIR$/template/list.html.php" />
+        <option value="$PROJECT_DIR$/template/home.html.php" />
+        <option value="$PROJECT_DIR$/template/admin_car_list.html.php" />
+        <option value="$PROJECT_DIR$/CSY2028/EntryPoint.php" />
+        <option value="$PROJECT_DIR$/template/clairs.html.php" />
+        <option value="$PROJECT_DIR$/Ijdb/Controllers/ContactController.php" />
+        <option value="$PROJECT_DIR$/Ijdb/Controllers/Routes.php" />
+        <option value="$PROJECT_DIR$/template/layout.html.php" />
+        <option value="$PROJECT_DIR$/Ijdb/Controllers/CarController.php" />
+        <option value="$PROJECT_DIR$/Ijdb/Controllers/ManufactureController.php" />
+        <option value="$PROJECT_DIR$/autoload.php" />
+        <option value="$PROJECT_DIR$/template/about.html.php" />
+        <option value="$PROJECT_DIR$/template/smartpayhpp256.html" />
+        <option value="$PROJECT_DIR$/template/show_image.html.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/template/smartpayhpp256.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1120" />
+    <option name="width" value="810" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="CSY2028" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Ijdb" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Ijdb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cars" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Assignment2\csy2028\websites\cars\template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Assignment2\csy2028\websites\cars\Ijdb" />
+      <recent name="C:\Assignment2\csy2028\websites\cars" />
+      <recent name="C:\Assignment2\csy2028\websites\cars\CSY2028" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\malik\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb703228-c5c6-4aba-94da-9a0b5e6742ca" name="Default" comment="" />
+      <created>1522143818439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522143818439</updated>
+      <workItem from="1522143820709" duration="1980000" />
+      <workItem from="1522147352379" duration="401000" />
+      <workItem from="1522157940815" duration="2200000" />
+      <workItem from="1522160181882" duration="2843000" />
+      <workItem from="1522175442335" duration="52000" />
+      <workItem from="1522187266120" duration="195000" />
+      <workItem from="1522187930923" duration="4271000" />
+      <workItem from="1522192305028" duration="245000" />
+      <workItem from="1522192564641" duration="2976000" />
+      <workItem from="1522195572913" duration="637000" />
+      <workItem from="1522196428095" duration="65000" />
+      <workItem from="1522231398108" duration="13921000" />
+      <workItem from="1522255234249" duration="5561000" />
+      <workItem from="1522278242800" duration="4639000" />
+      <workItem from="1522331598567" duration="39000" />
+      <workItem from="1522331756418" duration="1936000" />
+      <workItem from="1522336694933" duration="374000" />
+      <workItem from="1522341642415" duration="3913000" />
+      <workItem from="1522424023414" duration="8491000" />
+      <workItem from="1522444480772" duration="10154000" />
+      <workItem from="1522492137486" duration="1237000" />
+      <workItem from="1522509167005" duration="150000" />
+      <workItem from="1522530251659" duration="7295000" />
+      <workItem from="1522575746652" duration="699000" />
+      <workItem from="1522593735308" duration="51000" />
+      <workItem from="1522594981028" duration="4000" />
+      <workItem from="1522617686488" duration="2000" />
+      <workItem from="1522624208744" duration="128000" />
+      <workItem from="1522673345930" duration="6213000" />
+      <workItem from="1522690161764" duration="1698000" />
+      <workItem from="1522691879266" duration="37000" />
+      <workItem from="1522699696756" duration="17000" />
+      <workItem from="1522782685734" duration="11255000" />
+      <workItem from="1522799376160" duration="512000" />
+      <workItem from="1522858799962" duration="5029000" />
+      <workItem from="1522937474135" duration="8000" />
+      <workItem from="1523147318972" duration="2000" />
+      <workItem from="1523220144089" duration="2000" />
+      <workItem from="1524144056945" duration="902000" />
+      <workItem from="1524146521953" duration="576000" />
+      <workItem from="1524171330550" duration="20426000" />
+      <workItem from="1524213620075" duration="26323000" />
+      <workItem from="1524247691238" duration="3000" />
+      <workItem from="1524326003217" duration="988000" />
+      <workItem from="1524360205301" duration="2083000" />
+      <workItem from="1524393336438" duration="13969000" />
+      <workItem from="1524432995600" duration="1256000" />
+      <workItem from="1524435201994" duration="172000" />
+      <workItem from="1524436012373" duration="564000" />
+      <workItem from="1524439194725" duration="60000" />
+      <workItem from="1524439544945" duration="512000" />
+      <workItem from="1525886513322" duration="2000" />
+      <workItem from="1527021946445" duration="3000" />
+      <workItem from="1527022706975" duration="2000" />
+      <workItem from="1527460735234" duration="5000" />
+      <workItem from="1527966455951" duration="149000" />
+      <workItem from="1530036778793" duration="6000" />
+      <workItem from="1534344411959" duration="2000" />
+      <workItem from="1537304235237" duration="2000" />
+      <workItem from="1540256955113" duration="10000" />
+      <workItem from="1540380431392" duration="15000" />
+      <workItem from="1540646949095" duration="2000" />
+      <workItem from="1540696355400" duration="3000" />
+      <workItem from="1540852208674" duration="3000" />
+      <workItem from="1541006829632" duration="1000" />
+      <workItem from="1541521989426" duration="186000" />
+      <workItem from="1549825737715" duration="5725000" />
+      <workItem from="1549837613755" duration="1114000" />
+      <workItem from="1549840174624" duration="23000" />
+      <workItem from="1549840662194" duration="21000" />
+      <workItem from="1549842577618" duration="58000" />
+      <workItem from="1549888948501" duration="60000" />
+      <workItem from="1550574094884" duration="1242000" />
+      <workItem from="1550583764439" duration="3804000" />
+      <workItem from="1550801834426" duration="1213000" />
+      <workItem from="1551884977227" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="180798000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16442953" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32914287" />
+      <window_info anchor="right" id="Database" order="3" weight="0.20665742" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24973147" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.048600882" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3298969" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32842416" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CSY2028/DatabaseTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="49" column="29" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/smartpayhpp256.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2556">
+          <caret line="73" column="64" selection-start-line="73" selection-start-column="58" selection-end-line="73" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ijdb/Controllers/ContactController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/editmanufacturer.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="21" column="17" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSY2028/DatabaseTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2916">
+          <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/layout.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="40" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/home.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="24" column="61" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/list.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1908">
+          <caret line="53" column="48" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manufacturer_car_list.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/show_image.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="29" column="38" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/editmanufacturer.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="21" column="17" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSY2028/DatabaseTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2916">
+          <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/layout.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="40" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/home.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="24" column="61" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/list.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1908">
+          <caret line="53" column="48" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manufacturer_car_list.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/show_image.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="29" column="38" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/editmanufacturer.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="21" column="17" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSY2028/DatabaseTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3348">
+          <caret line="93" column="36" selection-start-line="93" selection-start-column="36" selection-end-line="93" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/layout.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1205">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/editcar.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1944" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ijdb/Controllers/ArticleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ijdb/Controllers/ContactController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/about.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="70" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/edit_admin.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="68" lean-forward="true" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/home.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/manufacturer_car_list.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-535">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/editmanufacturer.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="75" lean-forward="true" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/list.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2664">
+          <caret line="74" column="11" lean-forward="true" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/editarticle.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ijdb/Controllers/CarController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/show_image.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/contact.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSY2028/EntryPoint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ijdb/Controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/smartpayhpp256.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/smartpayhpp256.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="73" column="64" selection-start-line="73" selection-start-column="58" selection-end-line="73" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSY2028/DatabaseTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/admin_article.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
